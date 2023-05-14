@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+  width: 200vw;
+  height: 200vh;
+  margin: 0;
+  padding: 0;
+}
+.container-header {
+  display: flex;
+  justify-content: center;
+}

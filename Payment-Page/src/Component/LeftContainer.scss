@@ -1,0 +1,13 @@
+.left-container {
+  color:white;
+  font-size: 20px;
+  width: 50%;
+  .pointer-header {
+    font-size: 15px;
+    text-align: left;
+    .pointer-header-tag {
+      margin: 10px;
+      padding: 10px;
+    }
+  }
+}
